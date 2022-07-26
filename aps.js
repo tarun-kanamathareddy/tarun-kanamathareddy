@@ -6,7 +6,7 @@ function getcapture(camera){
 getcapture(function(){
     console.log('canon');
 });
-<------------------higher order functions---------------->
+// <------------------higher order functions---------------->
 function func1(){
     return function(){
         console.log('hi');
@@ -53,7 +53,7 @@ fn("ux");
 
 
 
-<!!!----------------------setTimeout()--------------------------!!!>
+// <!!!----------------------setTimeout()--------------------------!!!>
 
 function tarun(){
     console.log('goodmorning team')
